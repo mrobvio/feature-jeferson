@@ -1,0 +1,18 @@
+.menu,
+
+
+.row {
+    padding: 10px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+body {
+    background-color: #E5EAEE;
+}
